@@ -1,0 +1,182 @@
+
+10 elements: 
+
+Duration: 0.000001000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000001000 microseconds
+
+Duration: 0.000001000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+50 elements: 
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00000 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00000 microseconds
+
+100 elements: 
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+
+Duration: 0.00001 microseconds
+
+500 elements: 
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00008 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00007 microseconds
+
+
+Duration: 0.00006 microseconds
+
+1000 elements: 
+
+
+Duration: 0.00014 microseconds
+
+
+Duration: 0.00014 microseconds
+
+
+Duration: 0.00015 microseconds
+
+
+Duration: 0.00014 microseconds
+
+
+Duration: 0.00015 microseconds
+
+
+Duration: 0.00016 microseconds
+
+
+Duration: 0.00016 microseconds
+
+
+Duration: 0.00014 microseconds
+
+
+Duration: 0.00015 microseconds
+
+
+Duration: 0.00015 microseconds
+
+5000 elements: 
+
+
+Duration: 0.00089 microseconds
+
+
+Duration: 0.00097 microseconds
+
+
+Duration: 0.00095 microseconds
+
+
+Duration: 0.00092 microseconds
+
+
+Duration: 0.00090 microseconds
+
+
+Duration: 0.00124 microseconds
+
+
+Duration: 0.00146 microseconds
+
+
+Duration: 0.00145 microseconds
+
+
+Duration: 0.00150 microseconds
+
+
+Duration: 0.00141 microseconds

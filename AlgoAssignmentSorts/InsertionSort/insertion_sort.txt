@@ -1,0 +1,126 @@
+
+10 elements:
+Duration: 0.000001000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+Duration: 0.000000000 microseconds
+
+50 elements:
+Duration: 0.000009000 microseconds
+
+Duration: 0.000010000 microseconds
+
+Duration: 0.000012000 microseconds
+
+Duration: 0.000011000 microseconds
+
+Duration: 0.000008000 microseconds
+
+Duration: 0.000012000 microseconds
+
+Duration: 0.000010000 microseconds
+
+Duration: 0.000010000 microseconds
+
+Duration: 0.000011000 microseconds
+
+Duration: 0.000008000 microseconds
+
+100 elements:
+Duration: 0.000047000 microseconds
+
+Duration: 0.000039000 microseconds
+
+Duration: 0.000039000 microseconds
+
+Duration: 0.000043000 microseconds
+
+Duration: 0.000037000 microseconds
+
+Duration: 0.000045000 microseconds
+
+Duration: 0.000043000 microseconds
+
+Duration: 0.000044000 microseconds
+
+Duration: 0.000037000 microseconds
+
+Duration: 0.000044000 microseconds
+
+500 elements:
+Duration: 0.000983000 microseconds
+
+Duration: 0.000973000 microseconds
+
+Duration: 0.001045000 microseconds
+
+Duration: 0.001040000 microseconds
+
+Duration: 0.001119000 microseconds
+
+Duration: 0.001075000 microseconds
+
+Duration: 0.001209000 microseconds
+
+Duration: 0.001045000 microseconds
+
+Duration: 0.001053000 microseconds
+
+Duration: 0.001055000 microseconds
+
+1000 elements:
+Duration: 0.004289000 microseconds
+
+Duration: 0.004225000 microseconds
+
+Duration: 0.004419000 microseconds
+
+Duration: 0.004259000 microseconds
+
+Duration: 0.004458000 microseconds
+
+Duration: 0.003919000 microseconds
+
+Duration: 0.004357000 microseconds
+
+Duration: 0.004086000 microseconds
+
+Duration: 0.003796000 microseconds
+
+Duration: 0.003957000 microseconds
+
+5000 elements:
+Duration: 0.099810000 microseconds
+
+Duration: 0.099508000 microseconds
+
+Duration: 0.097543000 microseconds
+
+Duration: 0.097004000 microseconds
+
+Duration: 0.098292000 microseconds
+
+Duration: 0.096777000 microseconds
+
+Duration: 0.103671000 microseconds
+
+Duration: 0.108319000 microseconds
+
+Duration: 0.103660000 microseconds
+
+Duration: 0.103178000 microseconds
